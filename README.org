@@ -1,0 +1,18 @@
+* date-lisp
+Little dumb lisp thing to play around with getting dates from timestamps.
+
+Wanted to do something mildly complicated to get back into lisping, and was the first thing that came to mind
+
+* To Do
+- [X] leap years
+- [X] leap seconds
+- [ ] some actual structure to the code
+- [ ] asdf system
+- [ ] timezone support
+- [X] support for universal (01/01/1900 00:00 UTC) time
+- [ ] support for unix (01/01/1970 00:00 UTC) time
+- [ ] arbitrary date formatting
+- [ ] calendar display
+- [ ] make it executable
+- [ ] tests (you're gonna need them)
+
